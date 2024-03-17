@@ -1,8 +1,6 @@
 package run;
 
-import main.liste.Drivingliste;
-import main.liste.Liste;
-import main.liste.ShoppingListe;
+import liste.*;
 
 import java.util.ArrayList;
 import java.util.Random;

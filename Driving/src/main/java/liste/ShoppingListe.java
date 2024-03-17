@@ -1,7 +1,5 @@
 package liste;
 
-import main.liste.Liste;
-
 public class ShoppingListe extends Liste {
 
     public ShoppingListe() {
