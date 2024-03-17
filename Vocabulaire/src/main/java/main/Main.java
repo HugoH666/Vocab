@@ -1,4 +1,4 @@
-package run;
+package main;
 
 import liste.*;
 
@@ -28,7 +28,7 @@ public class Main {
             String choosenTheme = input.nextLine();
 
             switch (choosenTheme) {
-                case "Driving": ll = new Drivingliste(); break;
+                case "Driving": ll = new DrivingListe(); break;
                 case "Shopping": ll = new ShoppingListe(); break;
                 default: System.out.println("\nPlease choose a theme in the following list.");
             }

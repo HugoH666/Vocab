@@ -1,8 +1,8 @@
 package liste;
 
-public class Drivingliste extends Liste {
+public class DrivingListe extends Liste {
 
-    public Drivingliste() {
+    public DrivingListe() {
         super();
     }
 
