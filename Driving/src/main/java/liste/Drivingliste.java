@@ -1,4 +1,4 @@
-package main.liste;
+package liste;
 
 public class Drivingliste extends Liste {
 

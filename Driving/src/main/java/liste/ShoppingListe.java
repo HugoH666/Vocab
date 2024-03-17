@@ -1,4 +1,4 @@
-package main.liste;
+package liste;
 
 import main.liste.Liste;
 
