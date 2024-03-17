@@ -11,7 +11,7 @@ public class Main {
     public static void main(String[] args) {
 
         // Liste des différents thèmes
-        final String[] themes = new String[]{"Driving","Shopping","Money"};
+        final String[] themes = new String[]{"Driving","Shopping","Money","House"};
 
         Liste ll = null; // On initialise une liste null
         Random random = new Random();
@@ -31,6 +31,7 @@ public class Main {
                 case "Driving": ll = new DrivingListe(); break;
                 case "Shopping": ll = new ShoppingListe(); break;
                 case "Money": ll = new MoneyListe(); break;
+                case "House": ll = new HouseListe(); break;
                 default: System.out.println("\nPlease choose a theme in the following list.");
             }
         }
