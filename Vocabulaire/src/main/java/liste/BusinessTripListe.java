@@ -1,0 +1,154 @@
+package liste;
+
+public class BusinessTripListe extends Liste {
+
+    public BusinessTripListe() {
+        super();
+    }
+
+    @Override
+    public void fillEnListe() {
+        addListToEn("abroad");
+        addListToEn("accommodate");
+        addListToEn("accommodation");
+        addListToEn("attend");
+        addListToEn("attendee");
+        addListToEn("audience");
+        addListToEn("banquet");
+        addListToEn("bellman");
+        addListToEn("booked up");
+        addListToEn("booth");
+        addListToEn("border");
+        addListToEn("caterer");
+        addListToEn("check in");
+        addListToEn("check out");
+        addListToEn("check-out time");
+        addListToEn("concierge");
+        addListToEn("conference hall");
+        addListToEn("convention");
+        addListToEn("conventioneer");
+        addListToEn("crowded");
+        addListToEn("cruise");
+        addListToEn("display");
+        addListToEn("doorman");
+        addListToEn("entertainment");
+        addListToEn("exhibit");
+        addListToEn("exhibition");
+        addListToEn("fair");
+        addListToEn("front desk");
+        addListToEn("guest");
+        addListToEn("guidebook");
+        addListToEn("hotel clerk");
+        addListToEn("housekeeper");
+        addListToEn("indoor pool");
+        addListToEn("lecture");
+        addListToEn("lobby");
+        addListToEn("location");
+        addListToEn("luxury");
+        addListToEn("newsstand");
+        addListToEn("to overlook");
+        addListToEn("overnight");
+        addListToEn("overseas");
+        addListToEn("pack");
+        addListToEn("packed");
+        addListToEn("pass");
+        addListToEn("peak season");
+        addListToEn("pillow");
+        addListToEn("porter");
+        addListToEn("queue");
+        addListToEn("resort");
+        addListToEn("room service");
+        addListToEn("safe");
+        addListToEn("schedule");
+        addListToEn("seminar");
+        addListToEn("show hall");
+        addListToEn("sightseeing");
+        addListToEn("single");
+        addListToEn("smoke free");
+        addListToEn("soap");
+        addListToEn("stay");
+        addListToEn("time zone");
+        addListToEn("tour");
+        addListToEn("towel");
+        addListToEn("trade fair");
+        addListToEn("travel allowance");
+        addListToEn("vacancy");
+        addListToEn("valet parking");
+        addListToEn("valuables");
+        addListToEn("venue");
+        addListToEn("voucher");
+    }
+
+    @Override
+    public void fillFrListe() {
+        addListToFr("a l'etranger");
+        addListToFr("loger");
+        addListToFr("logement");
+        addListToFr("assister a");
+        addListToFr("participant");
+        addListToFr("public","auditoire");
+        addListToFr("banquet");
+        addListToFr("groom");
+        addListToFr("complet");
+        addListToFr("cabine");
+        addListToFr("frontiere");
+        addListToFr("traiteur");
+        addListToFr("se presenter a la reception en arrivant");
+        addListToFr("regler la facture en partant");
+        addListToFr("heure a laquelle il faut liberer la chambre");
+        addListToFr("receptionniste");
+        addListToFr("salle de conference");
+        addListToFr("congres");
+        addListToFr("congressiste");
+        addListToFr("bonde","rempli");
+        addListToFr("croisiere");
+        addListToFr("exposition","etalage");
+        addListToFr("portier");
+        addListToFr("divertissement");
+        addListToFr("exposer","presenter");
+        addListToFr("exposition");
+        addListToFr("foire");
+        addListToFr("reception");
+        addListToFr("hote","client");
+        addListToFr("guide");
+        addListToFr("employe d'hotel");
+        addListToFr("gouvernante");
+        addListToFr("piscine couverte");
+        addListToFr("conference");
+        addListToFr("hall");
+        addListToFr("emplacement");
+        addListToFr("luxe");
+        addListToFr("kiosque a journaux");
+        addListToFr("surplomber");
+        addListToFr("du soir au matin");
+        addListToFr("a l'etranger");
+        addListToFr("paquet","emballer");
+        addListToFr("bonde","plein");
+        addListToFr("laisser-passer");
+        addListToFr("haute-saison");
+        addListToFr("oreiller");
+        addListToFr("concierge");
+        addListToFr("file d'attente","faire la queue");
+        addListToFr("station");
+        addListToFr("service d'etage");
+        addListToFr("coffre-fort");
+        addListToFr("programme","horaire");
+        addListToFr("seminaire");
+        addListToFr("salle de spectacle");
+        addListToFr("tourisme");
+        addListToFr("chambre simple");
+        addListToFr("non-fumeur");
+        addListToFr("savon");
+        addListToFr("sejour","sejourner");
+        addListToFr("fuseau horaire");
+        addListToFr("excursion");
+        addListToFr("serviette");
+        addListToFr("foire commerciale");
+        addListToFr("frais de deplacement");
+        addListToFr("chambre libre");
+        addListToFr("service de garage de voitures");
+        addListToFr("objets de valeur");
+        addListToFr("lieu");
+        addListToFr("bon d'echange","coupon de reduction");
+    }
+}
