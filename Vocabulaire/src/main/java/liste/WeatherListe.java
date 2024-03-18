@@ -73,7 +73,6 @@ public class WeatherListe extends Liste {
         addListToFr("ensoleille");
         addListToFr("refroidissement");
         addListToFr("nuageux");
-        addListToFr("nuageux");
         addListToFr("humide");
         addListToFr("secheresse");
         addListToFr("maussade");
