@@ -16,7 +16,7 @@ public class ShoppingListe extends Liste {
         addListToEn("bargain");
         addListToEn("battery");
         addListToEn("bill");
-        addListToEn("cash register");
+        addListToEn("cash register","till");
         addListToEn("charge");
         addListToEn("coin");
         addListToEn("competition");
@@ -63,7 +63,6 @@ public class ShoppingListe extends Liste {
         addListToEn("small change");
         addListToEn("store");
         addListToEn("supplier");
-        addListToEn("till");
         addListToEn("toy");
         addListToEn("upscale");
         addListToEn("vending machine");
@@ -132,7 +131,6 @@ public class ShoppingListe extends Liste {
         addListToFr("menue monnaie");
         addListToFr("magasin", "stocker");
         addListToFr("fournisseur");
-        addListToFr("caisse enregistreuse");
         addListToFr("jouet");
         addListToFr("haut de gamme");
         addListToFr("distributeur automatique");
