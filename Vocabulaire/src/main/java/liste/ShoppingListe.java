@@ -11,7 +11,7 @@ public class ShoppingListe extends Liste {
         addListToEn("afford");
         addListToEn("after-sales service");
         addListToEn("aisle");
-        addListToEn("banknote", "bill");
+        addListToEn("banknote");
         addListToEn("barcode");
         addListToEn("bargain");
         addListToEn("battery");
