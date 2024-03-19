@@ -11,7 +11,7 @@ public class Main {
     public static void main(String[] args) {
 
         // Liste des différents thèmes
-        final String[] themes = new String[]{"Business Trip","Restaurants","Weather","Transportation","Office life","Phone calls","Driving","Shopping","Money","House","Clothing","Miscellaneous"};
+        final String[] themes = new String[]{"Business Trip","Restaurants","Weather","Transportation","Office life","Phone calls","Ordering","Driving","Shopping","Money","House","Clothing","Miscellaneous"};
 
         Liste ll = null; // On initialise une liste null
         Random random = new Random();
@@ -34,6 +34,7 @@ public class Main {
                 case "Transportation": ll = new TransportationListe(); break;
                 case "Office life": ll = new OfficeLifeListe(); break;
                 case "Phone calls": ll = new PhoneCallsListe(); break;
+                case "Ordering": ll = new OrderingListe(); break;
                 case "Driving": ll = new DrivingListe(); break;
                 case "Shopping": ll = new ShoppingListe(); break;
                 case "Money": ll = new MoneyListe(); break;
